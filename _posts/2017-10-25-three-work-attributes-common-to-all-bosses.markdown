@@ -7,6 +7,7 @@ img: post-1.jpg # Add image post (optional)
 tags: [Blog, Business, Work, HR]
 author: Muralykrishnan # Add name author (optional)
 ---
+
 Being in a profession for over 6 years, I have been awed by the professional charisma of my Bosses. Based on my experience, I have deduced that if you closely watch the 'Boss' breed, you can see many similarities in their work style and how they are closing a deal. Even though they differ in Gender, Culture, Industry, Language, Influence of Technology etc., they still show similar work attributes irrespective of diversity. # Add post description (optional)
 
 1. They are faster than Usain Bolt.
